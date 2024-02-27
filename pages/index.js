@@ -12,7 +12,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-       Actions-based deployments <br/> are here! ✨
+       Hello World <br/> are here! ✨
         </h1>
         <h3>Esta es una plantilla de una aplicación next para el despliegue y la entrega continua</h3>
         <h3>Give it a try today!</h3>
